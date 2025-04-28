@@ -7,6 +7,13 @@ import tv_apple from "./tv-apple.png";
 import heart_icon from "./heart_icon.svg";
 import symbol_star from "./symbol_star.svg";
 import symbol_star_light from "./symbol_star_light.svg";
+import girl_with_camera from "./girl_with_camera.png";
+import girl_with_laptop1 from "./girl_with_laptop (1).png";
+import boy_with_earphone from "./boy_with_earphone.png";
+import jbl_soundbox from "./jbl_soundbox_image.png";
+import md_controller from "./md_controller_image.png";
+import sm_controller from "./sm_controller_image.png";
+import gaming_sound from "./gaming_sound.png";
 
 export const assets = {
   logo,
@@ -18,6 +25,13 @@ export const assets = {
   heart_icon,
   symbol_star,
   symbol_star_light,
+  girl_with_camera,
+  girl_with_laptop1,
+  boy_with_earphone,
+  jbl_soundbox,
+  md_controller,
+  sm_controller,
+  gaming_sound,
 };
 
 export const productsDummyData = [
